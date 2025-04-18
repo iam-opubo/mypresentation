@@ -76,40 +76,7 @@ export default function Navbar() {
 
 
 
-       {/* <img
-          src="img/logo.jpg"
-          alt="Trifalgar logo"
-          className="h-[60px] w-[190px]"
-        /> */}
-
-
-
-        
-  //   <nav className="w-full  px-60 py-3 flex justify-between items-center bg-white  ">
-
-  //   {/* Logo Section */}
-  //   <div className="flex items-center space-x-3 ">
-
-  //     <div className="bg-blue-500 text-white p-1 rounded-full w-17 h-17 ">
-  //         <h1 className=" text-[40px] ml-5 mt-[-2%]">
-  //             T
-  //         </h1>
-  //     </div>
-
-  //     <h1 className="text-xl font-bold text-gray-750 text-[40px]">Trifalgar</h1>
-
-  //   </div>
-
-  //   {/* Navigation Links */}
-  //   <ul className="hidden md:flex space-x-15 text-gray-400 font-medium">
-  //     <li className="text-black hover:text-blue-500 cursor-pointer">Home</li>
-  //     <li className="hover:text-blue-500 cursor-pointer">Find a doctor</li>
-  //     <li className="hover:text-blue-500 cursor-pointer">Apps</li>
-  //     <li className="hover:text-blue-500 cursor-pointer">Testimonials</li>
-  //     <li className="hover:text-blue-500 cursor-pointer">About Us</li>
-  //   </ul>
-  // </nav>
-
+       
 
 
 

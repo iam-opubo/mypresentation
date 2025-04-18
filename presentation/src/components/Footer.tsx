@@ -1,5 +1,3 @@
-
-
 function Footer() {
   return ( 
     <div className="relative w-360 h-auto md:ml-35 md:mr-25  font-mulish mt-10 md:mt-50 z-10" style={{ background: 'linear-gradient(to right, #67C3F3, #5A98F2)' }}>
@@ -83,5 +81,3 @@ function Footer() {
 }
 
 export default Footer
-
-    {/* add mobile responsiveness in the first div dont forget */}

@@ -5,7 +5,6 @@ import Ourservices from './components/Ourservices';
 import LeadingHealthcare from './components/LeadingHealthcare';
 import MobileApps from './components/MobileApps';
 import Testimonials from './components/Testimonials';
-// import SlidebarEllipse from './components/SlidebarEllipse';
 import LatestArticle from './components/LatestArticle';
 import Footer from './components/Footer';
 
@@ -23,7 +22,6 @@ function App() {
     <LeadingHealthcare />
     <MobileApps />
     <Testimonials />
-    {/* <SlidebarEllipse /> */}
     <LatestArticle />
     <Footer />
     

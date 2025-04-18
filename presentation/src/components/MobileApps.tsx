@@ -39,13 +39,6 @@ function MobileApps() {
   </div>
 </div>
 
-
-
-
-
-
-
-
   </div>
 
   {/* Image Section */}
@@ -57,8 +50,6 @@ function MobileApps() {
 
   
    
-
-  
 
 
 
